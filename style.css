@@ -1,0 +1,31 @@
+.box-style{
+    height: 50px;
+    width: 50px;
+}
+.box-style1{
+    height: 100px;
+}
+.box-height{
+    height: 130px;
+}
+.box-height1{
+    height: 30px;
+}
+.box-size{
+   height: 50px;
+}
+.box-size-percentage{
+    height: 70%;
+ }
+.box-size1{
+    height: 80px;
+ }
+.height-box{
+    height: 100px;
+}
+.card-box{
+    height: 250px;
+}
+.card-box1{
+    height: 300px;
+}
